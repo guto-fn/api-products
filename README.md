@@ -33,7 +33,7 @@ API Restful para gerenciamento de produtos, feita com PHP e PostgreSQL.
 
 # Como rodar?
 
-[Rodar o projeto](./docs/install/index.md);
+[Rodar o projeto](./docs/install/index.md)
 
 ---
 
